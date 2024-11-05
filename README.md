@@ -69,4 +69,23 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 - Which Region has the highest total sales
 - Which month was the highest in Total Sales
 
+### Microsoft Excel Summary and Visualizations
+![image](https://github.com/user-attachments/assets/c13b150f-873d-4b76-a36b-995afb3ebcb4)
+
+![image](https://github.com/user-attachments/assets/bab8c528-e829-4388-a981-8731e9385f8e)
+
+![image](https://github.com/user-attachments/assets/d410865b-dec3-4228-9f2e-5277a2d84422)
+
+![image](https://github.com/user-attachments/assets/fded5eae-83f8-4ff9-8d8d-f2c3a7795254)
+
+![image](https://github.com/user-attachments/assets/238dcf27-5d11-4a31-b248-4b535e78f02d)
+
+![image](https://github.com/user-attachments/assets/3128978c-1b1a-4589-af04-f532145dcd2a)
+
+![image](https://github.com/user-attachments/assets/822bf542-9f1d-46fe-96a9-34054c36b197)
+
+![image](https://github.com/user-attachments/assets/31e1a366-5a5e-479a-bb4c-c7f136ad5462)
+
+
+
 
