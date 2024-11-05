@@ -91,5 +91,7 @@ Summary Report of Subscription start and Sum of Revenue
 Summary Report of Subscription end and Sum of Revenue
 ![image](https://github.com/user-attachments/assets/231b45b3-23a1-46c2-9afb-46187c421301)
 
+Sum Of Revenue by Cancelled
+![image](https://github.com/user-attachments/assets/ca12a7b8-22c8-4524-8304-abd2dc2a3fe7)
 
 
