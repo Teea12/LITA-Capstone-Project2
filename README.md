@@ -71,7 +71,7 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 
 ### Microsoft Excel Summary and Visualizations
 ---
-![image](https://github.com/user-attachments/assets/c13b150f-873d-4b76-a36b-995afb3ebcb4)
+### ![image](https://github.com/user-attachments/assets/c13b150f-873d-4b76-a36b-995afb3ebcb4)
 
 ![image](https://github.com/user-attachments/assets/bab8c528-e829-4388-a981-8731e9385f8e)
 
