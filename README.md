@@ -1,4 +1,4 @@
-# LITA-Capstone-Project2
+# LITA-Capstone-Project 2
 # LITA_Class_Capstone_Project 2 Documentation
 This is where I documented my Capstone project 1 for Data Analysis with the Incubator Hub
 ### Project Title: Sales Performance Analysis for a Retail Store
