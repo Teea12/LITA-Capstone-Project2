@@ -79,5 +79,16 @@ Exploratory Data Analysis (EDA) involved the exploring of the data to answer som
 
 ### Power BI Data Visualizations
 ---
+Summary Report for Subscription Type and Sum of Revenue
 ![image](https://github.com/user-attachments/assets/1b0a4bc8-5f18-4f3a-9a03-39d6fb8bbc20)
+
+
+![image](https://github.com/user-attachments/assets/b8a73280-2cd7-4829-80b6-1a198e5e1b6d)
+
+![image](https://github.com/user-attachments/assets/f7e76413-9430-47fc-9b37-30eda3252a1b)
+
+Summary Report of Subscription end and Sum of Revenue
+![image](https://github.com/user-attachments/assets/231b45b3-23a1-46c2-9afb-46187c421301)
+
+
 
