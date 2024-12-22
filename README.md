@@ -28,10 +28,11 @@ This is where I documented my Capstone project 2 for Data Analysis with the Incu
 
 ### Project Overview: 
 This Project is about the Subscription for a Company.
-In this project, I analysed the subscription performance of a company.
-I explored sales data to uncover key insights such as top-selling products, regional
-performance, and monthly sales trends. I also produced an interactive Power BI
-dashboard that highlighted the findings.
+In this project, I analysed the Subscription Service performance of a company.
+This project involves analyzing customer data for a subscription service to identify 
+segments and trends. My goal is to understand customer behavior, track subscription types, 
+and identify key trends in cancellations and renewals.
+I also produced an interactive Power BI dashboard that highlighted the findings.
 
 
 ### Data Sources
