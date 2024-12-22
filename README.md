@@ -1,6 +1,6 @@
 # LITA-Capstone-Project 2
 # LITA_Class_Capstone_Project 2 Documentation
-This is where I documented my Capstone project 1 for Data Analysis with the Incubator Hub
+This is where I documented my Capstone project 2 for Data Analysis with the Incubator Hub
 ### Project Title: Analysis of Subscription for a company's Product
 
 [Project Overview](#project-overview)
@@ -27,8 +27,8 @@ This is where I documented my Capstone project 1 for Data Analysis with the Incu
 
 
 ### Project Overview: 
-This Project is about the Sales Performance Analysis for a Retail Store.
-In this project, I analysed the sales performance of a retail store.
+This Project is about the Subscription for a Company.
+In this project, I analysed the subscription performance of a company.
 I explored sales data to uncover key insights such as top-selling products, regional
 performance, and monthly sales trends. I also produced an interactive Power BI
 dashboard that highlighted the findings.
