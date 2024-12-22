@@ -1,7 +1,7 @@
 # LITA-Capstone-Project 2
 # LITA_Class_Capstone_Project 2 Documentation
 This is where I documented my Capstone project 2 for Data Analysis with the Incubator Hub
-### Project Title: Analysis of Subscription for a company's Product
+### Project Title: Analysis of Subscription Service performance for a Company
 
 [Project Overview](#project-overview)
 
